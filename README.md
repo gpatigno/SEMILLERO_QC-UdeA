@@ -5,7 +5,10 @@ Espacio para almacenar y compartir diversos ejemplos, circuitos y algortimos cu√
 
 ******************************************************************
 #### Prof. Gustavo Patino-Alvarez
+
 Facultad de Ingenier√≠a
+
 Universidad de Antioquia
+
 Medellin, 2025
 ******************************************************************
