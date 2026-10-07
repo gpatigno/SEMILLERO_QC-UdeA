@@ -1,4 +1,4 @@
-# **Semillero de Computación Cuántica de la Facultad de Ingeniería - UdeA 2025**
+# **Semillero de Computación Cuántica de la Facultad de Ingeniería - UdeA 2026**
 
 Espacio para almacenar y compartir diversos ejemplos, circuitos y algortimos cuánticos estudiados en el Semillero.
 
@@ -10,5 +10,5 @@ Facultad de Ingeniería
 
 Universidad de Antioquia
 
-Medellin, 2025
+Medellin, 2026
 ******************************************************************
